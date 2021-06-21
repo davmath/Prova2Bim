@@ -1,0 +1,25 @@
+{
+    "medico": [
+        {
+            "id": 1,
+            "crm": "A054008",
+            "name":"David Matheus",
+            "especialidade": "Oftalmologista",
+            "createdAt": "21/06/2021"
+        },
+        {
+            "id": 2,
+            "crm": "A054009",
+            "name":"Matheus Rosa",
+            "especialidade": "Psiquiatra",
+            "createdAt": "21/06/2021"
+        },
+        {
+            "id": 3,
+            "name":"Rosa Silva",
+            "crm": "A054009",
+            "especialidade": "Cardiologista",
+            "createdAt": "21/06/2021"
+        }
+    ]
+}
